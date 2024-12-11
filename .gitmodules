@@ -1,0 +1,9 @@
+[submodule "Newre"]
+	path = Newre
+	url = https://github.com/automationCode42/Newre.git
+[submodule "submoduleHG"]
+	path = submoduleHG
+	url = https://github.com/automationCode42/nikunj_test.git
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/automationCode42/mp3aug.git
